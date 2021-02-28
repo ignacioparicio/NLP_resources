@@ -10,3 +10,4 @@ implementation for a variety of NLP uses cases.
 | 3   	| Assign topics	| Latent Dirichlet allocation 	| Unsupervised |LDA_topic_modeling 	|
 | 4   	| Predict sentiment	| BoW + classifier	| Supervised |sentiment_analysis 	|
 | 5   	| Predict sentiment	| LSTM RNN	| Supervised |sentiment_analysis 	|
+| 6   	| Decipher text 	| Character level RNN	| Supervised |RNN_decipher 	|
