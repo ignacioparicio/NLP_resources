@@ -12,3 +12,4 @@ implementation for a variety of NLP uses cases.
 | 5   	| Predict sentiment	| LSTM RNN	| Supervised |sentiment_analysis 	|
 | 6   	| Decipher text 	| Character level RNN	| Supervised |RNN_decipher 	|
 | 7   	| Translate text 	| Embedding + RNN   | Supervised |machine_translation 	|
+| 8   	| Speech recognition 	| spectogram/MFCC + RNN   | Supervised |ASR 	|
